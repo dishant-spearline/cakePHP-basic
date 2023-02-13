@@ -1,0 +1,7 @@
+2023-02-09 04:02:01 Error: [RuntimeException] Unknown command `cake srever`. Run `cake --help` to get the list of valid commands. in /home/spearline/Documents/Projects/Cake PHP/cakephp3_basics/vendor/cakephp/cakephp/src/Console/CommandRunner.php on line 346
+Stack Trace:
+#0 /home/spearline/Documents/Projects/Cake PHP/cakephp3_basics/vendor/cakephp/cakephp/src/Console/CommandRunner.php(157): Cake\Console\CommandRunner->resolveName()
+#1 /home/spearline/Documents/Projects/Cake PHP/cakephp3_basics/bin/cake.php(12): Cake\Console\CommandRunner->run()
+#2 {main}
+
+
